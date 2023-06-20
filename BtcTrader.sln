@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".BtcTrader", ".BtcTrader", "{65212D28-3598-4BEE-A9C2-023C83FD4712}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BtcTrader", "src\BtcTrader\BtcTrader.csproj", "{4FFF02DA-1610-42F6-8939-B3190A669BCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BtcTrader.Test", "src\BtcTrader.Test\BtcTrader.Test.csproj", "{9BDEB6A7-04C6-460A-877E-0FBE043C76A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FFF02DA-1610-42F6-8939-B3190A669BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FFF02DA-1610-42F6-8939-B3190A669BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FFF02DA-1610-42F6-8939-B3190A669BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FFF02DA-1610-42F6-8939-B3190A669BCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BDEB6A7-04C6-460A-877E-0FBE043C76A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BDEB6A7-04C6-460A-877E-0FBE043C76A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BDEB6A7-04C6-460A-877E-0FBE043C76A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BDEB6A7-04C6-460A-877E-0FBE043C76A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
